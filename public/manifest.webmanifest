@@ -1,0 +1,13 @@
+{
+  "name": "Image2PDF",
+  "short_name": "Image2PDF",
+  "description": "Private, watermark-free image to PDF converter",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#f7f9fc",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
